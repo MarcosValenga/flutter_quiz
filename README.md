@@ -1,6 +1,6 @@
 # flutter_quiz
 
-A new Flutter project.
+Apenas um pequeno Quiz para minha aprendizagem em Flutter.
 
 ## Getting Started
 
